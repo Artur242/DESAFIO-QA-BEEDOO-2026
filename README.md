@@ -1,6 +1,8 @@
 # DESAFIO-QA-BEEDOO-2026
 Planilha: https://docs.google.com/spreadsheets/d/1RNeh0wM8U6PAxy56KcrauVLxRbTedMJ3PB9AD6Mezzw/edit?usp=sharing
+
 Evidências: https://drive.google.com/drive/folders/11_j6UzMxpUBDryb0l3Y-11-a1DThhqS0?usp=sharing
+
 Relatório de bugs: https://docs.google.com/document/d/19Si_aVDmssYpiWswJzrUBtAgmXy_dvLCgrJSkr2LtLs/edit?usp=sharing
 
 Acredito que o objetivo da aplicação Beedoo QA Chalenge é disponibilizar para o usuário uma plataforma que possibilite a criação e divulgação de cursos tanto online como presenciais.
