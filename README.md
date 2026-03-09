@@ -1,5 +1,5 @@
 # DESAFIO-QA-BEEDOO-2026
-Planilha: https://docs.google.com/spreadsheets/d/1RNeh0wM8U6PAxy56KcrauVLxRbTedMJ3PB9AD6Mezzw/edit?usp=sharing
+Planilha de testes: https://docs.google.com/spreadsheets/d/1RNeh0wM8U6PAxy56KcrauVLxRbTedMJ3PB9AD6Mezzw/edit?usp=sharing
 
 Evidências: https://drive.google.com/drive/folders/11_j6UzMxpUBDryb0l3Y-11-a1DThhqS0?usp=sharing
 
